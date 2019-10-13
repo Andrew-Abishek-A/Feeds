@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "280216605726",
+    "firebase_url": "https://iskon-e62de.firebaseio.com",
+    "project_id": "iskon-e62de",
+    "storage_bucket": "iskon-e62de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280216605726:android:aa5ef897594d22643f0a0f",
+        "android_client_info": {
+          "package_name": "com.example.feeds"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280216605726-2rcfh3p6kgcksk9ceolmd0s3612sijte.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDizbV1cQpz7FW9u8ZZoZddDMs8_Ec9SfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280216605726-2rcfh3p6kgcksk9ceolmd0s3612sijte.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280216605726:android:1e4fa81a8a167d8e3f0a0f",
+        "android_client_info": {
+          "package_name": "com.example.iskon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280216605726-qfn7jevi9cl91ohammgdgatvtj76k5jl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.iskon",
+            "certificate_hash": "ef9fb14e78d77760bdd3d9d1ad346088fceb6ba4"
+          }
+        },
+        {
+          "client_id": "280216605726-2rcfh3p6kgcksk9ceolmd0s3612sijte.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDizbV1cQpz7FW9u8ZZoZddDMs8_Ec9SfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280216605726-2rcfh3p6kgcksk9ceolmd0s3612sijte.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
